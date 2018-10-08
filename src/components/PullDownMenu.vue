@@ -62,7 +62,7 @@ export default {
     }
   }
 }
-</script><`2`>
+</script>
 
 <style scoped>
 div, ul, li, a, p {
